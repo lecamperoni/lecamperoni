@@ -4,9 +4,9 @@
 
 🌱 Atualmente, estou cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** no **SENAC**.
 
-### Sobre Mim 🍂
+### 🍂 Sobre Mim
 
-Com a minha primeira formação, adquiri experiência em **gestão de documentos e informação**, tanto teoricamente quando no mercado de trabalho. 
+Com a minha primeira formação, adquiri experiência em **gestão de documentos e informação**, tanto teoricamente quanto no mercado de trabalho. 
 Atualmente, estou aprendendendo e aprimorando minhas habilidades na área da tecnologia. Tenho afeição pelo **back-end** e por **banco de dados**.
 
 ### 💻 Tecnologias que Utilizo
@@ -22,6 +22,7 @@ Atualmente, estou aprendendendo e aprimorando minhas habilidades na área da tec
 ### 📫 Vamos nos conectar!
 
 Sinta-se à vontade para entrar em contato comigo.
+
 [LinkedIn](https://br.linkedin.com/in/leticia-camperoni2)
 
 ---
