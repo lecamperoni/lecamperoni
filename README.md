@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Sou a Leticia! 
 
-<!--
-**lecamperoni/lecamperoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formada em **Ciência da Informação e da Documentação e Biblioteconomia** pela **USP Ribeirão Preto** (2017).
 
-Here are some ideas to get you started:
+🌱 Atualmente, estou cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** no **SENAC**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre Mim 🍂
+
+Com a minha primeira formação, adquiri experiência em **gestão de documentos e informação**, tanto teoricamente quando no mercado de trabalho. 
+Atualmente, estou aprendendendo e aprimorando minhas habilidades na área da tecnologia. Tenho afeição pelo **back-end** e por **banco de dados**.
+
+### 💻 Tecnologias que Utilizo
+
+- **Linguagens:** 
+  - C#
+  - Python
+  - SQL
+  - HTML
+  - CSS
+  - JavaScript
+
+### 📫 Vamos nos conectar!
+
+Sinta-se à vontade para entrar em contato comigo.
+[LinkedIn](https://br.linkedin.com/in/leticia-camperoni2)
+
+---
+
