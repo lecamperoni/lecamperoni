@@ -7,17 +7,7 @@
 ### 🍂 Sobre Mim
 
 Com a minha primeira formação, adquiri experiência em **gestão de documentos e informação**, tanto teoricamente quanto no mercado de trabalho. 
-Atualmente, estou aprendendendo e aprimorando minhas habilidades na área da tecnologia. Tenho afeição pelo **back-end** e por **banco de dados**.
-
-### 💻 Tecnologias que Utilizo
-
-- **Linguagens:** 
-  - C#
-  - Python
-  - SQL
-  - HTML
-  - CSS
-  - JavaScript
+Atualmente, estou aprendendendo e aprimorando minhas habilidades na área da tecnologia. 
 
 ### 📫 Vamos nos conectar!
 
