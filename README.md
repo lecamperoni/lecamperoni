@@ -1,8 +1,6 @@
 # Olá! Sou a Leticia! 
 
-🎓 Formada em **Ciência da Informação e da Documentação e Biblioteconomia** pela **USP Ribeirão Preto** (2017).
-
-🌱 Atualmente, estou cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** no **SENAC**.
+🎓 Formada em **Ciência da Informação e da Documentação e Biblioteconomia** pela **USP Ribeirão Preto** (2017) e em **Tecnologia em Análise e Desenvolvimento de Sistemas** pelo **SENAC** (2026).
 
 ### 🍂 Sobre Mim
 
